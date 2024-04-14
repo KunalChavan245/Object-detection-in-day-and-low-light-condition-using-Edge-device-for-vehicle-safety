@@ -38,7 +38,7 @@ Contribution
 Contributions to this project are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub.
 
 ***License***
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source can fork for personal use.
 
 ***Acknowledgements***
 Special thanks to the creators and contributors of the YOLO models for their valuable research and implementations.
